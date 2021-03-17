@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1470210178 source:f:\learning\codeblock\pro1\main.cpp
+	<iostream>
+
+1469795854 source:f:\learning\codeblock\pro1\linkedlist.cpp
+	<iostream>
+
+1469936571 source:f:\learning\codeblock\pro1\stack.cpp
+	<iostream>
+
